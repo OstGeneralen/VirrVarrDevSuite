@@ -1,6 +1,15 @@
 # VirrVarr Development Suite Changelog
 
-## [0.0.1] - 06/27/2921
+## [0.0.2] - 06/27/2021
+### Runtime
+- [Added] Layer Assets. A way to use assets for comparing single layer at runtime.
+- [Added] Layer Mask Assets. A way to use assets for building layer masks which can be checked agains objects at runtime.
+- [Fixed] Added summary comments to the Start Ordering Service
+
+### Misc
+- [Fixed] Typo in changelog for Dev Suite version 0.0.1 where the year was 2921 instead of 2021
+
+## [0.0.1] - 06/27/2021
 ### Runtime
 - [Added] VirrVarr Behaviours. MonoBehaviours with additional functionality.
 - [Added] Event Assets. Assets that can be created that represent an event. Can be subscribed to and triggered.
