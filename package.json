@@ -1,0 +1,16 @@
+{
+  "name": "com.virrvarrdev",
+  "version": "0.0.1",
+  "displayName": "VirrVarr Development Suite",
+  "description": "Components, editors and tools for VirrVarr development",
+  "unity": "2020.3",
+  "unityRelease": "8f1",
+  "keywords": [
+    "VirrVarr"
+  ],
+  "author": {
+    "name": "OstGeneralen",
+    "email": "kasper.esbjornsson@gmail.com",
+    "url": "https://ostgeneralen.itch.io/"
+  }
+}

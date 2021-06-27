@@ -1,0 +1,16 @@
+{
+    "name": "DevSuiteEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:119f900d19dbf554a8a6eda49b061dab"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
